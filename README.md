@@ -1,5 +1,3 @@
-
-[Czech](./README.cs.md)
 <!--- module --->
 # ALBASE1209
 <!--- Emodule --->
